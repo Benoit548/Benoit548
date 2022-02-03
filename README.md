@@ -3,4 +3,4 @@
 -I’m currently learning Java and Kotlin
 -You can reach me on benoit.lusset@hotmail.fr
 
-Most of my projects are personnal projects for now, I'm willing to make life easier and automate simple things.
+Most of my projects are personnal projects for now, I wish to make life easier and automate simple things.
